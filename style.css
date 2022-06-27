@@ -1,0 +1,39 @@
+.heading{
+    width:100%;
+    font-size: 24px;
+    margin: 0px;
+}
+
+.div-speed-img{
+    float: left;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.div-volume-img{
+    float: right;
+    width: 200px;
+    border-radius: 20px;
+}
+
+#speed{
+    font-size: 20px;
+    margin: 15px;
+    float: left;
+}
+
+#volume{
+    font-size: 20px;
+    margin: 15px;
+    float: right;
+}
+
+h3{
+    font-size: 24px;
+    margin:0px;
+}
+
+#note{
+    font-size: 14px;
+    color:black;
+}
